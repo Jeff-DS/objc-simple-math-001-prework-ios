@@ -74,13 +74,14 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		0C6EF90BC351F36F729B8371 /* Resources */ = {
+		0C6EF90BC351F36F729B8371 /* Rezourses */ = {
 			isa = PBXGroup;
 			children = (
 				6C51D485D808A09D9D4C61E2 /* Images.xcassets */,
 				B3490936BA6414D722BDBFD4 /* LaunchScreen.xib */,
 				492C8249719854FB1E42C0A7 /* Other-Sources */,
 			);
+			name = Rezourses;
 			path = Resources;
 			sourceTree = "<group>";
 		};
@@ -147,7 +148,7 @@
 				68DCC1B55036DA521843EAEC /* FISAppDelegate.h */,
 				5C1EC944914768941EA6BF62 /* FISAppDelegate.m */,
 				93E2045DC1871073DC2FBDDF /* Main.storyboard */,
-				0C6EF90BC351F36F729B8371 /* Resources */,
+				0C6EF90BC351F36F729B8371 /* Rezourses */,
 			);
 			path = "objc-simple-math";
 			sourceTree = "<group>";
